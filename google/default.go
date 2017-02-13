@@ -14,8 +14,8 @@ import (
 	"runtime"
 
 	"cloud.google.com/go/compute/metadata"
+	"github.com/jonas747/oauth2"
 	"golang.org/x/net/context"
-	"golang.org/x/oauth2"
 )
 
 // DefaultCredentials holds "Application Default Credentials".
