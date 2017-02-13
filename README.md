@@ -1,3 +1,5 @@
+# This fork has discord added to broken auth providers, thats the only difference.
+
 # OAuth2 for Go
 
 [![Build Status](https://travis-ci.org/golang/oauth2.svg?branch=master)](https://travis-ci.org/golang/oauth2)
