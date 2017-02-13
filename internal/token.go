@@ -120,6 +120,7 @@ var brokenAuthHeaderProviders = []string{
 	"https://www.wunderlist.com/oauth/",
 	"https://api.patreon.com/",
 	"https://sandbox.codeswholesale.com/oauth/token",
+	"https://discordapp.com/api/oauth2",
 }
 
 func RegisterBrokenAuthHeaderProvider(tokenURL string) {
